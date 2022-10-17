@@ -51,13 +51,15 @@ https://user-images.githubusercontent.com/91364746/196104808-49ffb6f6-8cfc-43ad-
 
 //if u lose:
 
-https://user-images.githubusercontent.com/91364746/196102853-cc8887f9-0003-46e0-bd40-c0b5161896e4.mov
+https://user-images.githubusercontent.com/91364746/196105416-23ad3bc0-4dc0-4cb7-a6cb-0d0d0d91ca0f.mov
+
+
 
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Yanwen Chen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
