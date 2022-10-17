@@ -1,12 +1,8 @@
-# Pre-work - *Memory Game*
+# *Light Sound Memory Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
-
-Submitted by: **Yanwen Chen**
+**Yanwen Chen**
 
 Time spent: **5.5** hours spent in total
-
-Link to project: (insert your link here, should start with https://glitch.com...)
 
 ## Required Functionality
 
