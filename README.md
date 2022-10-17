@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
 
-## Video Walkthrough (GIF)
+## Video Walkthrough
 
 ![](gif1-link-here)
 ![](gif2-link-here)
